@@ -144,8 +144,8 @@
       ]
     },
     {
-      "id": "ai-stuff",
-      "name": "Ai-stuff",
+      "id": "AI工具",
+      "name": "AI工具",
       "links": [
         {
           "id": 26,
@@ -360,8 +360,8 @@
       ]
     },
     {
-      "id": "tools",
-      "name": "Tools",
+      "id": "实用工具",
+      "name": "实用工具",
       "links": [
         {
           "id": 167,
@@ -792,8 +792,8 @@
       ]
     },
     {
-      "id": "container",
-      "name": "Container",
+      "id": "容器服务",
+      "name": "容器服务",
       "links": [
         {
           "id": 80,
@@ -1001,8 +1001,8 @@
       ]
     },
     {
-      "id": "cloud",
-      "name": "Cloud",
+      "id": "云服务",
+      "name": "云服务",
       "links": [
         {
           "id": 56,
@@ -1175,8 +1175,8 @@
       ]
     },
     {
-      "id": "software",
-      "name": "Software",
+      "id": "软件",
+      "name": "软件",
       "links": [
         {
           "id": 132,
@@ -1349,8 +1349,8 @@
       ]
     },
     {
-      "id": "game-server",
-      "name": "Game Server",
+      "id": "游戏服务器",
+      "name": "游戏服务器",
       "links": [
         {
           "id": 109,
@@ -1516,8 +1516,8 @@
       ]
     },
     {
-      "id": "mail-&-domain",
-      "name": "Mail & Domain",
+      "id": "邮件与域名",
+      "name": "邮件与域名",
       "links": [
         {
           "id": 227,
@@ -1683,8 +1683,8 @@
       ]
     },
     {
-      "id": "proxy",
-      "name": "Proxy",
+      "id": "代理",
+      "name": "代理",
       "links": [
         {
           "id": 156,
@@ -1752,8 +1752,8 @@
       ]
     },
     {
-      "id": "dev",
-      "name": "Dev",
+      "id": "开发工具",
+      "name": "开发工具",
       "links": [
         {
           "id": 250,
